@@ -1,0 +1,33 @@
+Package: tariff
+Title: Make Importing Great Again
+Version: 1.0.0
+Authors@R:
+    c(
+        person(
+            given = "Huan",
+            family = "Xu",
+            role = c("aut"),
+            email = "huan.xu71@gmail.com",
+            comment = c(
+                Website = "https://github.com/hxu296"
+            )
+        ),
+        person(
+            given = "Mihai",
+            family = "Constantin",
+            role = c("aut", "cre"),
+            email = "mihai@mihaiconstantin.com",
+            comment = c(
+                ORCID = "0000-0002-6460-0107",
+                Website = "https://mihaiconstantin.com"
+            )
+        )
+    )
+Description: Make importing great again! A package that imposes tariffs on
+    foreign package imports.
+License: MIT + file LICENSE
+URL: https://tariff.mihaiconstantin.com
+BugReports: https://github.com/mihaiconstantin/tariff/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
