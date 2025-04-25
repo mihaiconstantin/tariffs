@@ -7,24 +7,17 @@ Authors@R:
             given = "Huan",
             family = "Xu",
             role = c("aut"),
-            email = "huan.xu71@gmail.com",
-            comment = c(
-                Website = "https://github.com/hxu296"
-            )
+            email = "huan.xu71@gmail.com"
         ),
         person(
             given = "Mihai",
             family = "Constantin",
             role = c("aut", "cre"),
-            email = "mihai@mihaiconstantin.com",
-            comment = c(
-                ORCID = "0000-0002-6460-0107",
-                Website = "https://mihaiconstantin.com"
-            )
+            email = "mihai@mihaiconstantin.com"
         )
     )
 Description: A beautiful tool to impose tariffs on foreign package imports and
-    bring manufacturing back to your codebase. Make importing great again!
+    bring manufacturing back to your code base. Make importing great again!
 License: MIT + file LICENSE
 URL: https://tariffs.mihaiconstantin.com
 BugReports: https://github.com/mihaiconstantin/tariffs/issues

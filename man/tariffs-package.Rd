@@ -34,11 +34,11 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Mihai Constantin \email{mihai@mihaiconstantin.com} (\href{https://orcid.org/0000-0002-6460-0107}{ORCID}) (https://mihaiconstantin.com)
+\strong{Maintainer}: Mihai Constantin \email{mihai@mihaiconstantin.com}
 
 Authors:
 \itemize{
-  \item Huan Xu \email{huan.xu71@gmail.com} (https://github.com/hxu296)
+  \item Huan Xu \email{huan.xu71@gmail.com}
 }
 
 }
