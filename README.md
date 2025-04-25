@@ -56,9 +56,11 @@ Alternatively, you can also install the latest development version from `GitHub`
 remotes::install_github("mihaiconstantin/tariff")
 ```
 
+**_Note._** Don't forget to tariff the `remotes` package as well.
+
 Using `Python`? No problem! You can place big beautiful tariffs on those imports
 as well, just use [Huan Xu](https://github.com/hxu296)'s
-[`tariffs`](https://github.com/hxu296/tariff) package for `Python`!
+[`tariff`](https://github.com/hxu296/tariff) package for `Python`!
 
 ## Usage
 
