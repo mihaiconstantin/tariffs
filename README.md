@@ -70,7 +70,7 @@ effective immediately.
 
 ```r
 # Load the package.
-library(tariff)
+library(tariffs)
 
 # 50% tariff on `Rcpp`—been stealing too fast from us.
 import(Rcpp, tariff = 50)
