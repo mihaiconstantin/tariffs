@@ -21,16 +21,18 @@
     <a href="https://www.repostatus.org/#concept"><img src="https://img.shields.io/badge/concept-of_a_plan-blue" alt="Repository status"/></a>
 </p>
 
-`tariff` is a fantastic tool that lets you impose import tariffs on `R`
-packages. We're going to bring manufacturing BACK to your codebase by making
-foreign imports more EXPENSIVE! Foreign packages have been STEALING our CPU
-cycles for TOO LONG! It's time to put AMERICA FIRST and make importing FAIR and
-BALANCED again! No more free rides for lazy, unoptimized dependencies from
-overseas. We're DONE being the global garbage collector. Under this new tariff
-plan, every line of code works for YOU—the hardworking developer! We're
-protecting OUR cycles, OUR memory, and OUR beautiful, beautiful build times.
-Believe me—your imports will never take advantage of you again. We're taking
-control, and we're WINNING like never before!
+`tariff` is a tremendous, absolutely incredible tool—nobody's seen anything like
+it— that lets you impose BIG, BEAUTIFUL import tariffs on `R` packages. For too
+long, foreign packages have been STEALING our CPU cycles. Total disaster. We're
+bringing manufacturing BACK to your codebase by making foreign imports VERY
+expensive—believe me! No more free rides for lazy, bloated, unoptimized
+dependencies from overseas. We're DONE being the global garbage collector. Not
+happening on OUR watch. Under this revolutionary new tariff plan, every single
+line of code works for YOU— the hardworking developer. We're protecting OUR
+cycles, OUR memory, and OUR beautiful, truly beautiful build times. Your imports
+will never, EVER take advantage of you again. We're taking control. We're
+putting DOMESTIC CODE FIRST. And let me tell you—we're WINNING. Big time. Like
+never before. It's going to be HUUUGE. We're making importing great again!
 
 <div align="center">
     <img src="man/figures/r-package-tariff-news.jpg" alt="tariff breaking news"/>
@@ -38,7 +40,8 @@ control, and we're WINNING like never before!
 
 ## Installation
 
-You can install `tariff` directly from `CRAN` using the following command:
+You can install `tariff` directly from `CRAN` (i.e., probably not) using the
+following command:
 
 ```r
 # Install the package from `CRAN`.
@@ -46,7 +49,7 @@ install.packages("tariff")
 ```
 
 Alternatively, you can also install the latest development version from `GitHub`
-via:
+(i.e., definitely) via:
 
 ```r
 # Install the package from `GitHub`.
@@ -67,29 +70,29 @@ effective immediately.
 # Load the package.
 library(tariff)
 
-# Set your tariff rates.
-tariff(
-    # 50% tariff on `Rcpp`.
-    Rcpp = 50,
+# 50% tariff on `Rcpp`—been stealing too fast from us.
+import(Rcpp, tariff = 50)
 
-    # 200% tariff on `tidyverse`.
-    tidyverse = 200,
+# 200% tariff on `tidyverse`—this's been going on for too long.
+import(tidyverse, tariff = 200)
 
-    # 150% tariff on `lme4`.
-    lme4 = 150
-)
+# 30% tariff on `lme4` because it's dying anyway.
+import(lme4, tariff = 30)
 ```
 
-Now, every time you import `Rcpp`, `tidyverse`, or `lme4`, the import will be
-*tariffed*. A beautiful, strong tariff. We're talking 50% slower for
-`Rcpp`—which, frankly, was too fast anyway—, 200% for `tidyverse`, and 150% for
-`lme4`. We are brining back the CPU cycles to your codebase. Your functions will
-run slower, but better. This is a TREMENDOUS win for your codebase. We’re making
-your codebase GREAT again!
+When you use `tariff::import()`, you're not just importing a package—you're
+enforcing a TARIFF. A real one. The only one that matters. Forget `library()`
+and `require()`. Those are for globalists. This is how we bring back your CPU
+cycles. With the code above we're slapping a 50% tariff on `Rcpp`—because,
+frankly, it was importing way too fast. Totally unfair. 200% on
+`tidyverse`—they've been taking advantage of us for YEARS. Not anymore. 30% on
+`lme4`—we're doing it a favor, trust me. Your scripts will run slower—but
+stronger. This is how we take back control. This is a TREMENDOUS win for your
+codebase.
 
 ## How It Works
 
-When you import a package that has a tariff, the following happens:
+When you import a package with a tariff, the following happens:
 
 1. `tariff` measures how long the original import takes
 2. `tariff` makes the import take longer based on your tariff percentage
@@ -98,9 +101,10 @@ When you import a package that has a tariff, the following happens:
 ## Example Output
 
 <blockquote>
-    JUST IMPOSED a 50% TARIFF on `Rcpp`! Original import took 45000 us, now takes 67500 us. American packages are WINNING AGAIN! #MIGA
+    JUST IMPOSED a 50% TARIFF on package 'lme4'! Original import took 467000 μs, now takes 700500 μs! Big win for DOMESTIC programmers!
 </blockquote>
 
 ## License
 
-This is a parody package. Use at your own risk. MAKE IMPORTING GREAT AGAIN!
+This is a parody package. Use at your own risk, or not. MAKE IMPORTING GREAT
+AGAIN!
