@@ -1,3 +1,8 @@
+# tariffs 1.0.1
+
+## Fixed
+- Simplify author information in `DESCRIPTION` file to avoid `CRAN` errors.
+
 # tariffs 1.0.0
 
 ## Added
