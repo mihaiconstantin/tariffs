@@ -23,8 +23,8 @@ Authors@R:
             )
         )
     )
-Description: Make importing great again! A package that imposes tariffs on
-    foreign package imports.
+Description: A beautiful tool to impose tariffs on foreign package imports and
+    bring manufacturing back to your codebase. Make importing great again!
 License: MIT + file LICENSE
 URL: https://tariff.mihaiconstantin.com
 BugReports: https://github.com/mihaiconstantin/tariff/issues
