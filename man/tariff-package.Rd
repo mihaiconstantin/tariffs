@@ -6,19 +6,22 @@
 \alias{tariff-package}
 \title{Make Importing Great Again}
 \description{
-\code{tariff} is a fantastic tool that lets you impose import tariffs on \code{R}
-packages. We're going to bring manufacturing BACK to your codebase by making
-foreign imports more EXPENSIVE! Foreign packages have been STEALING our CPU
-cycles for TOO LONG! It's time to put AMERICA FIRST and make importing FAIR
-and BALANCED again! No more free rides for lazy, unoptimized dependencies
-from overseas. We're DONE being the global garbage collector. Under this new
-tariff plan, every line of code works for YOU—the hardworking developer!
-We're protecting OUR cycles, OUR memory, and OUR beautiful, beautiful build
-times. Believe me—your imports will never take advantage of you again. We're
-taking control, and we're WINNING like never before!
+\code{tariff} is a tremendous, absolutely incredible tool—nobody's seen anything
+like it— that lets you impose BIG, BEAUTIFUL import tariffs on R packages.
+For too long, foreign packages have been STEALING our CPU cycles. Total
+disaster. We're bringing manufacturing BACK to your codebase by making
+foreign imports VERY expensive—believe me! No more free rides for lazy,
+bloated, unoptimized dependencies from overseas. We're DONE being the global
+garbage collector. Not happening on OUR watch. Under this revolutionary new
+tariff plan, every single line of code works for YOU— the hardworking
+developer. We're protecting OUR cycles, OUR memory, and OUR beautiful, truly
+beautiful build times. Your imports will never, EVER take advantage of you
+again. We're taking control. We're putting DOMESTIC CODE FIRST. And let me
+tell you—we're WINNING. Big time. Like never before. It's going to be HUUUGE.
+We're making importing great again!
 }
 \details{
-See the function \code{\link[=tariff]{tariff()}} to learn how to impose tariffs and brings
+See the function \code{\link[=import]{import()}} to learn how to impose tariffs and brings
 back billions and billions and billions of CPU cycles to your codebase.
 }
 \seealso{
