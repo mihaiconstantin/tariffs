@@ -6,7 +6,7 @@
 \alias{tariffs-package}
 \title{Make Importing Great Again}
 \description{
-\code{tariff} is a tremendous, absolutely incredible tool—nobody's seen anything
+\code{tariffs} is a tremendous, absolutely incredible tool—nobody's seen anything
 like it— that lets you impose BIG, BEAUTIFUL import tariffs on R packages.
 For too long, foreign packages have been STEALING our CPU cycles. Total
 disaster. We're bringing manufacturing BACK to your codebase by making
@@ -28,8 +28,8 @@ codebase.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://tariff.mihaiconstantin.com}
-  \item Report bugs at \url{https://github.com/mihaiconstantin/tariff/issues}
+  \item \url{https://tariffs.mihaiconstantin.com}
+  \item Report bugs at \url{https://github.com/mihaiconstantin/tariffs/issues}
 }
 
 }

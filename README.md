@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://tariff.mihaiconstantin.com">
+    <a href="https://tariffs.mihaiconstantin.com">
         <img width="300px" src="man/figures/miga.png" alt="tariff logo"/>
     </a>
 </p>
