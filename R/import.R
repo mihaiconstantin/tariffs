@@ -6,7 +6,7 @@
 #' the imposition of tariffs on foreign `R` packages.
 #'
 #' @keywords internal
-phrases = c(
+phrases <- c(
     "Domestic packages are WINNING AGAIN!",
     "We're bringing back JOBS to our codebase!",
     "This is how we get FAIR TRADE in R!",
@@ -18,18 +18,18 @@ phrases = c(
     "This is how we Keep You Coding Again!",
     "HUGE success!",
     "We're protecting our STACKS and our STACKFRAMES!",
-    "These are the most TREMENDOUS build times—nobody builds like us.",
+    "These are the most TREMENDOUS build times - nobody builds like us.",
     "Foreign packages? TOTAL DISASTER until now!",
     "This is a HISTORIC moment for domestic code!",
     "The most beautiful slowdown you've ever seen!",
     "We're putting our domestic code FIRST!",
     "Other programming languages are JEALOUS of this package!",
     "It's not a bug, it's ECONOMIC POLICY!",
-    "RStudio called—they said this is a GAME CHANGER!",
+    "RStudio called - they said this is a GAME CHANGER!",
     "We've got the best delays. The very best. Everyone's talking about them.",
     "We're TAXING your imports until they RESPECT US!",
     "Dependency freeloaders? THEY'RE FIRED!",
-    "We're not just importing—we're IMPORTING WITH DIGNITY!"
+    "We're not just importing - we're IMPORTING WITH DIGNITY!"
 )
 
 
@@ -127,7 +127,7 @@ import <- function(package, tariff, ...) {
     # Prepare the social media announcement
     announcement <- paste0(
         "JUST IMPOSED a ", tariff, "% TARIFF on package '", package_name, "'! ",
-        "Original import took ", round(original_load_time, 2), " μs, now takes ", round(total_load_time, 2), " μs! ",
+        "Original import took ", round(original_load_time, 2), " \u03BCs, now takes ", round(total_load_time, 2), " \u03BCs! ",
         sample(phrases, 1)
     )
 
