@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/reference/test_package.html#special-files
 
 library(testthat)
-library(tariff)
+library(tariffs)
 
-test_check("tariff")
+test_check("tariffs")

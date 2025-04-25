@@ -2,7 +2,7 @@
 #' Make Importing Great Again
 #'
 #' @description
-#' `tariff` is a tremendous, absolutely incredible tool—nobody's seen anything
+#' `tariffs` is a tremendous, absolutely incredible tool—nobody's seen anything
 #' like it— that lets you impose BIG, BEAUTIFUL import tariffs on R packages.
 #' For too long, foreign packages have been STEALING our CPU cycles. Total
 #' disaster. We're bringing manufacturing BACK to your codebase by making
@@ -17,8 +17,9 @@
 #' We're making importing great again!
 #'
 #' @details
-#' See the function [tariff::import()] to learn how to impose tariffs and brings
-#' back billions and billions and billions of CPU cycles to your codebase.
+#' See the function [tariffs::import()] to learn how to impose tariffs and
+#' brings back billions and billions and billions of CPU cycles to your
+#' codebase.
 #'
 #' @keywords internal
 "_PACKAGE"

@@ -2,7 +2,7 @@
 #' A List of Import Phrases
 #'
 #' @description
-#' A collection of phrases used by the [tariff::import()] function to announce
+#' A collection of phrases used by the [tariffs::import()] function to announce
 #' the imposition of tariffs on foreign `R` packages.
 #'
 #' @keywords internal

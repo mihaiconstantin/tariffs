@@ -6,7 +6,7 @@
 
 <div align="center">
     <h1>
-        tariff
+        tariffs
     </h1>
     <h3>
         <i>
@@ -21,11 +21,11 @@
     <a href="https://www.repostatus.org/#concept"><img src="https://img.shields.io/badge/concept-of_a_plan-blue" alt="Repository status"/></a>
 </p>
 
-`tariff` is a tremendous, absolutely incredible tool—nobody's seen anything like
-it— that lets you impose BIG, BEAUTIFUL import tariffs on `R` packages. For too
-long, foreign packages have been STEALING our CPU cycles. Total disaster. We're
-bringing manufacturing BACK to your codebase by making foreign imports VERY
-expensive—believe me! No more free rides for lazy, bloated, unoptimized
+`tariffs` is a tremendous, absolutely incredible tool—nobody's seen anything
+like it— that lets you impose BIG, BEAUTIFUL import tariffs on `R` packages. For
+too long, foreign packages have been STEALING our CPU cycles. Total disaster.
+We're bringing manufacturing BACK to your codebase by making foreign imports
+VERY expensive—believe me! No more free rides for lazy, bloated, unoptimized
 dependencies from overseas. We're DONE being the global garbage collector. Not
 happening on OUR watch. Under this revolutionary new tariff plan, every single
 line of code works for YOU— the hardworking developer. We're protecting OUR
@@ -40,7 +40,7 @@ never before. It's going to be HUUUGE. We're making importing great again!
 
 ## Installation
 
-You can install `tariff` directly from `CRAN` (i.e., probably not) using the
+You can install `tariffs` directly from `CRAN` (i.e., probably not) using the
 following command:
 
 ```r
@@ -57,12 +57,12 @@ remotes::install_github("mihaiconstantin/tariff")
 ```
 
 Using `Python`? No problem! You can place big beautiful tariffs on those imports
-as well, just use [Huan Xu](https://www.linkedin.com/in/huan-xu-999700169/)'s
-[`tariff`](https://github.com/hxu296/tariff) package for `Python`!
+as well, just use [Huan Xu](https://github.com/hxu296)'s
+[`tariffs`](https://github.com/hxu296/tariff) package for `Python`!
 
 ## Usage
 
-`tariff` brings back billions and billions and billions of CPU cycles to your
+`tariffs` brings back billions and billions and billions of CPU cycles to your
 codebase. Below you can find an example of how to impose tariffs on your imports
 effective immediately.
 
@@ -80,7 +80,7 @@ import(tidyverse, tariff = 200)
 import(lme4, tariff = 30)
 ```
 
-When you use `tariff::import()`, you're not just importing a package—you're
+When you use `tariffs::import()`, you're not just importing a package—you're
 enforcing a TARIFF. A real one. The only one that matters. Forget `library()`
 and `require()`. Those are for globalists. This is how we bring back your CPU
 cycles. With the code above we're slapping a 50% tariff on `Rcpp`—because,
@@ -94,9 +94,9 @@ codebase.
 
 When you import a package with a tariff, the following happens:
 
-1. `tariff` measures how long the original import takes
-2. `tariff` makes the import take longer based on your tariff percentage
-3. `tariff` announces the tariff with a TREMENDOUS message
+1. `tariffs` measures how long the original import takes
+2. `tariffs` makes the import take longer based on your tariff percentage
+3. `tariffs` announces the tariff with a TREMENDOUS message
 
 ## Example Output
 
